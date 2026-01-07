@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 *.pyo
 EMNIST_data/
+cifar_100/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
 
